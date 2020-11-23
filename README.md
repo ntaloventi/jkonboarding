@@ -1,5 +1,6 @@
 # jkonboarding
 [![](https://jitpack.io/v/ntaloventi/jkonboarding.svg)](https://jitpack.io/#ntaloventi/jkonboarding)
+![Java CI with Gradle](https://github.com/ntaloventi/jkonboarding/workflows/Java%20CI%20with%20Gradle/badge.svg)
 
 OnBoarding Made Simple
 
