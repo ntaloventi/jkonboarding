@@ -1,0 +1,3 @@
+include ':JkOnBoarding'
+include ':app'
+rootProject.name = "OnBoarding"
