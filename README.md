@@ -8,7 +8,7 @@ OnBoarding Made Simple
 >Gradle
 ```
 dependencies {
-   api 'com.github.ntaloventi:jkonboarding:0.1.0
+   api 'com.github.ntaloventi:jkonboarding:0.1.0'
 }
 ```
 
