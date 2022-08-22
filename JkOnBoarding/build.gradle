@@ -1,5 +1,19 @@
 plugins {
     id 'com.android.library'
+    id 'maven-publish'
+}
+
+publishing {
+    repositories {
+        maven {
+            name = "GitHubPackages"
+            url = uri("https://maven.pkg.github.com/ntaloveti/jkonboarding")
+            credentials {
+                username = "ntaloventi"
+                password = "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"
+            }
+        }
+    }
 }
 
 android {
